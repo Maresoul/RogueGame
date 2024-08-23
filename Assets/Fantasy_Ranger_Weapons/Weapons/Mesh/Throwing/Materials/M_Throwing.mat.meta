@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbc22be25b9f7fb479c0ccc8bf008fb1
+timeCreated: 1528161299
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126861
+  packageName: 25 Fantasy Ranger Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy_Ranger_Weapons/Weapons/Mesh/Throwing/Materials/M_Throwing.mat
+  uploadId: 273466

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Explosion3D_5
+  m_Shader: {fileID: 4800000, guid: a3ac223fd48263742b2b8070d79cb16f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 749659e03eab4534e99a7ba8931c9200, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorStrength: 1
+    - _Cutoff: 0.5
+    - _DiffuseThreshold: 0.024999987
+    - _Diffusion: 1.8839285
+    - _InvFade: 0.5
+    m_Colors:
+    - _AdditiveColor: {r: 0.6102941, g: 0.6102941, b: 0.6102941, a: 0.31764707}
+    - _BlendedColor: {r: 0.22794116, g: 0.22794116, b: 0.22794116, a: 0.25882354}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.7058823, g: 0.4454719, b: 0.316609, a: 0.5019608}
+    - _TintColor2: {r: 0.83823526, g: 0.7346035, b: 0.6964749, a: 0.22745098}
+  m_BuildTextureStacks: []

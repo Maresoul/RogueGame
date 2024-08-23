@@ -1,0 +1,1924 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171f842dd8f420547b0f10406884c7c8, type: 3}
+  m_Name: 1001
+  m_EditorClassIdentifier: 
+  states:
+  - id: 1001
+    info: "1001_\u5F85\u673A"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1002
+    info: "1002_\u8DD1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 10021
+    info: "10021_\u8DD1\u8854\u63A5\u5F85\u673A"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1003
+    info: "1003_\u75BE\u8DD1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 10031
+    info: "10031_\u75BE\u8DD1\u8854\u63A5\u5F85\u673A"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1005
+    info: "1005_\u666E\u653B1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1006
+    info: "1006_\u666E\u653B2"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1007
+    info: "1007_\u666E\u653B3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1008
+    info: "1008_\u666E\u653B4"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1009
+    info: "1009_\u6280\u80FD1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1010
+    info: "1010_\u6280\u80FD2"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1011
+    info: "1011_\u6280\u80FD3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1012
+    info: "1012_\u6280\u80FD4"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1013
+    info: "1013_\u683C\u6321\u8D77\u624B"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 10131
+    info: "10131_\u683C\u6321\u4FDD\u6301"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 10132
+    info: "10132_\u683C\u6321\u6536"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1014
+    info: "1014_\u7A81\u8FDB"
+    physicsConfig:
+    - trigger: 0
+      time: 0.8
+      force: {x: 0, y: 0, z: 5.7}
+      cure:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      ignore_gravity: 0
+      stop_dst: 0
+    effectConfigs: []
+  - id: 1015
+    info: "1015_\u524D_\u53D7\u51FB"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1016
+    info: "1016_\u540E_\u53D7\u51FB"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1017
+    info: "1017_\u524D_\u51FB\u98DE"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1018
+    info: "1018_\u540E_\u51FB\u98DE"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1019
+    info: "1019_\u84C4\u529B\u653B\u51FB"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1020
+    info: "1020_\u8DF3\u8DC3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1021
+    info: "1021_\u8DF3\u8DC3_\u4E0B\u843D"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1022
+    info: "1022_\u8DF3\u8DC3_\u7740\u5730"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1023
+    info: "1023_\u8DF3\u8DC3\u653B\u51FB1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1024
+    info: "1024_\u8DF3\u8DC3\u653B\u51FB2"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1025
+    info: "1025_\u8DF3\u8DC3\u653B\u51FB3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1026
+    info: "1026_\u524D_\u8D77\u8EAB"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1027
+    info: "1027_\u540E_\u8D77\u8EAB"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1028
+    info: "1028_\u524D_\u6B7B\u4EA1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1029
+    info: "1029_\u540E_\u6B7B\u4EA1"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1030
+    info: "1030_\u88AB\u683C\u6321\u5F39\u53CD"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1031
+    info: "1031_\u683C\u6321\u6210\u529F"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1032
+    info: "1032_\u524D_\u8EB2\u95EA"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1033
+    info: "1033_\u540E_\u8EB2\u95EA"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1034
+    info: "1034_\u5DE6_\u8EB2\u95EA"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1035
+    info: "1035_\u53F3_\u8EB2\u95EA"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1036
+    info: "1036_\u524D_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1037
+    info: "1037_\u540E_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1038
+    info: "1038_\u5DE6_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1039
+    info: "1039_\u53F3_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1040
+    info: "1040_\u5DE6\u524D_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1041
+    info: "1041_\u53F3\u524D_\u8E31\u6B65"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1042
+    info: "1042_\u79FB\u52A8\u5230\u6307\u5B9A\u4F4D\u7F6E"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1043
+    info: "1043_\u5DE1\u903B"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1044
+    info: "1044_\u5904\u51B3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1045
+    info: "1045_\u88AB\u5904\u51B3"
+    physicsConfig: []
+    effectConfigs: []
+  - id: 1046
+    info: "1046_\u4F7F\u7528\u6697\u5668_\u70B8\u5F39"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/Bomb01
+      id: 100
+      level: 0
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.17
+      destroy_hit_count: 30
+      destroy_self_explosion: 0.15
+    - res_path: Effect/Bomb01
+      id: 100
+      level: 1
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 3
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.17
+      destroy_hit_count: 30
+      destroy_self_explosion: 0.15
+    - res_path: Effect/Bomb01
+      id: 100
+      level: 2
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2.7
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 5
+      fan_angle_difference: 8
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.17
+      destroy_hit_count: 30
+      destroy_self_explosion: 0.15
+    - res_path: Effect/Bomb01
+      id: 100
+      level: 3
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 3.5
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 10
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.17
+      destroy_hit_count: 30
+      destroy_self_explosion: 0.15
+    - res_path: Effect/Bomb01
+      id: 100
+      level: 4
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 3.8
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 15
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.17
+      destroy_hit_count: 30
+      destroy_self_explosion: 0.15
+  - id: 1047
+    info: "1047_\u4F7F\u7528\u6697\u5668_\u98DE\u9556"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/Dart01
+      id: 101
+      level: 0
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Dart01
+      id: 101
+      level: 1
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 3
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Dart01
+      id: 101
+      level: 2
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 2.7
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 5
+      fan_angle_difference: 8
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Dart01
+      id: 100
+      level: 3
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 3.5
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 10
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Dart01
+      id: 101
+      level: 4
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 3.8
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 15
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+  - id: 1048
+    info: "1048_\u4F7F\u7528\u6697\u5668_\u98DE\u5200"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/Knife01
+      id: 102
+      level: 0
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 2
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 3}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 1
+      rect_columns: 1
+      rect_rows_spacing: 1
+      rect_columns_spacing: 1
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 2
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 3
+        follow_speed: 40
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 10
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Knife01
+      id: 102
+      level: 1
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 2
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 3}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 2
+      rect_columns: 2
+      rect_rows_spacing: 1
+      rect_columns_spacing: 1
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 2
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 3
+        follow_speed: 40
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 10
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Knife01
+      id: 102
+      level: 2
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 2
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 3.5}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 2
+      rect_columns: 2
+      rect_rows_spacing: 1
+      rect_columns_spacing: 1
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 2
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 3
+        follow_speed: 40
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 10
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Knife01
+      id: 102
+      level: 3
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 2
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 3.5}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 3
+      rect_columns: 3
+      rect_rows_spacing: 1
+      rect_columns_spacing: 1
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 2
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 3
+        follow_speed: 40
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 20
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/Knife01
+      id: 102
+      level: 4
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 2
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 4}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 3
+      rect_columns: 3
+      rect_rows_spacing: 1
+      rect_columns_spacing: 1
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 2
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 3
+        follow_speed: 40
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 20
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+  - id: 1049
+    info: "1049_\u4F7F\u7528\u6697\u5668_\u5706\u8F6E"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/RoundWheel01
+      id: 103
+      level: 0
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 3
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 1
+      random_radius_max: 10
+      random_count: 3
+      random_count_max: 5
+      random_angle: 0
+      random_angle_max: 360
+      move_type: 3
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 1
+        type: 1
+        p1: {x: -5, y: 0, z: 5}
+        p2: {x: 10, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 20}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/RoundWheel01
+      id: 103
+      level: 1
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 3
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 1
+      random_radius_max: 10
+      random_count: 6
+      random_count_max: 5
+      random_angle: 0
+      random_angle_max: 360
+      move_type: 3
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 1
+        type: 1
+        p1: {x: -5, y: 0, z: 5}
+        p2: {x: 10, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 20}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/RoundWheel01
+      id: 103
+      level: 2
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 3
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 1
+      random_radius_max: 10
+      random_count: 8
+      random_count_max: 5
+      random_angle: 0
+      random_angle_max: 360
+      move_type: 3
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 1
+        type: 1
+        p1: {x: -5, y: 0, z: 5}
+        p2: {x: 10, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 20}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/RoundWheel01
+      id: 103
+      level: 3
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 3
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 1
+      random_radius_max: 10
+      random_count: 10
+      random_count_max: 5
+      random_angle: 0
+      random_angle_max: 360
+      move_type: 3
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 1
+        type: 1
+        p1: {x: -5, y: 0, z: 5}
+        p2: {x: 10, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 20}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/RoundWheel01
+      id: 103
+      level: 4
+      trigger: 0.3
+      use_prop_id: 0
+      create_type: 3
+      hit_range: 2
+      spawn_point_type: 0
+      spawn_hang_point: 
+      rotate_type: 0
+      position_offset: {x: 0, y: 0.7, z: 0}
+      fan_count: 1
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 1
+      random_radius_max: 10
+      random_count: 15
+      random_count_max: 5
+      random_angle: 0
+      random_angle_max: 360
+      move_type: 3
+      directMoveConfg:
+        speed: 30
+        acceleration: 0
+        maxSpeed: 30
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 1
+        type: 1
+        p1: {x: -5, y: 0, z: 5}
+        p2: {x: 10, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 20}
+      hit_effect: Effect/Explosion3D_5
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 1
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+  - id: 1050
+    info: "1050_\u666E\u901A\u5C04\u51FB"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/shoot/shoot_muzzle
+      id: 1051
+      level: 0
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 0
+      hit_range: 1
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.1}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 0
+        acceleration: 0
+        maxSpeed: 0
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 0
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 0
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 0
+      hit_range: 1
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 30
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0.5
+        type: 0
+        p1: {x: 0, y: 10, z: 5}
+        p2: {x: 3, y: 0, z: 6}
+        end: {x: 0, y: 0, z: 10}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 1
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 2
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 2
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 6
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 3
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 8
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 4
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 12
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+  - id: 1051
+    info: "1051_\u79FB\u52A8\u5C04\u51FB"
+    physicsConfig: []
+    effectConfigs:
+    - res_path: Effect/shoot/shoot_muzzle
+      id: 1051
+      level: 0
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 0
+      hit_range: 1
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.1}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 0
+        acceleration: 0
+        maxSpeed: 0
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 0}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 0.5
+      destroy_hit_count: 0
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 0
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 0
+      hit_range: 1
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 0
+      fan_angle_difference: 0
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 1
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 2
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 2
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 6
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 3
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 8
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0
+    - res_path: Effect/shoot/shoot_projectile
+      id: 1052
+      level: 4
+      trigger: 0.2
+      use_prop_id: 0
+      create_type: 1
+      hit_range: 1.2
+      spawn_point_type: 0
+      spawn_hang_point: SK_CyberpunkSamurai_Merged/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/SM_AssaultRifle/Shoot
+      rotate_type: 0
+      position_offset: {x: 0, y: 0, z: 0.2}
+      fan_count: 12
+      fan_angle_difference: 15
+      rect_rows: 0
+      rect_columns: 0
+      rect_rows_spacing: 0
+      rect_columns_spacing: 0
+      random_radius: 0
+      random_radius_max: 0
+      random_count: 0
+      random_count_max: 0
+      random_angle: 0
+      random_angle_max: 0
+      move_type: 0
+      directMoveConfg:
+        speed: 50
+        acceleration: 5
+        maxSpeed: 80
+        custom_direction: 0
+        direction: {x: 0, y: 0, z: 1}
+        space: 0
+      trackMoveConfig:
+        speed: 0
+        torque: 0
+        stopDistance: 0
+        x_freeze: 0
+        z_freeze: 0
+      aroundMoveConfig:
+        speed: 0
+        follow_speed: 0
+      bezierCurveMoveConfig:
+        duration: 0
+        type: 0
+        p1: {x: 0, y: 0, z: 0}
+        p2: {x: 0, y: 0, z: 0}
+        end: {x: 0, y: 0, z: 0}
+      hit_effect: 
+      hit_effect_count: 0
+      hit_audio: 
+      destroy_durtaion: 5
+      destroy_hit_count: 30
+      destroy_self_explosion: 0

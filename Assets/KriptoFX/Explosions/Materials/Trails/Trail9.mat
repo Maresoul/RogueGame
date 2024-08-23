@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Trail9
+  m_Shader: {fileID: 4800000, guid: a3ac223fd48263742b2b8070d79cb16f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 15a60ca287b9ea240a89e8cc37aec028, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorStrength: 2
+    - _Cutoff: 0.5
+    - _DiffuseThreshold: 0.2125
+    - _Diffusion: 1.8678571
+    - _InvFade: 0.5
+    m_Colors:
+    - _AdditiveColor: {r: 0.6102941, g: 0.6102941, b: 0.6102941, a: 0.31764707}
+    - _BlendedColor: {r: 0.22794116, g: 0.22794116, b: 0.22794116, a: 0.25882354}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.8308824, g: 0.7592546, b: 0.72702205, a: 0.54901963}
+    - _TintColor2: {r: 1, g: 1, b: 1, a: 1}

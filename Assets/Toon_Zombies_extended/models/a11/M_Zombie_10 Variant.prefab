@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1511930700584416570
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_Name
+      value: M_Zombie_10 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 60e663e407bcf354994536be3cd8a1ac, type: 3}
+    - target: {fileID: 9500000, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a2e8f5b31663cea46b272263faf530ef, type: 2}
+    - target: {fileID: 9500000, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: m_Name
+      value: M_Zombie_10 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3220422196988339346, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c978e186592a68543b322aa118af5a36, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8557754977131576570}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6990042645734287023}
+  m_SourcePrefab: {fileID: 100100000, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+--- !u!1 &1745739862278555755 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d7e1116f94f445049ba1936fdc760957, type: 3}
+  m_PrefabInstance: {fileID: 1511930700584416570}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &8557754977131576570
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1745739862278555755}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 60e663e407bcf354994536be3cd8a1ac, type: 3}
+  m_Controller: {fileID: 9100000, guid: 6d72a32b3128b4b4eb3b9d6c9abde562, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6990042645734287023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1745739862278555755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e861cd728fd49b69e30e17bd76642da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bakerData:
+    animations:
+    - animationID: idle
+      animatorStateName: idle
+      animationType: 0
+      singleClipData:
+        animationClip: {fileID: 1827226128182048838, guid: 355e89af61c87c44f8902d47baf88025, type: 3}
+      dualClipBlendData:
+        blendParameterName: 
+        clip1:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        clip2:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        nbrOfInBetweenSamples: 0
+      loop: 1
+      additionalAnimatorParameterValues: []
+      additionalAnimatorStatesPerLayer: []
+    - animationID: run
+      animatorStateName: run
+      animationType: 0
+      singleClipData:
+        animationClip: {fileID: 1827226128182048838, guid: afaf499ddc0aeed4ca8de3ebfb33b10e, type: 3}
+      dualClipBlendData:
+        blendParameterName: 
+        clip1:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        clip2:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        nbrOfInBetweenSamples: 0
+      loop: 1
+      additionalAnimatorParameterValues: []
+      additionalAnimatorStatesPerLayer: []
+    - animationID: attack
+      animatorStateName: attack
+      animationType: 0
+      singleClipData:
+        animationClip: {fileID: 1827226128182048838, guid: 8eccf5bd03269b54a8251162366097d2, type: 3}
+      dualClipBlendData:
+        blendParameterName: 
+        clip1:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        clip2:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        nbrOfInBetweenSamples: 0
+      loop: 0
+      additionalAnimatorParameterValues: []
+      additionalAnimatorStatesPerLayer: []
+    - animationID: hit
+      animatorStateName: hit
+      animationType: 0
+      singleClipData:
+        animationClip: {fileID: 1827226128182048838, guid: 03093094320a98040b043753c8815f82, type: 3}
+      dualClipBlendData:
+        blendParameterName: 
+        clip1:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        clip2:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        nbrOfInBetweenSamples: 0
+      loop: 0
+      additionalAnimatorParameterValues: []
+      additionalAnimatorStatesPerLayer: []
+    - animationID: die
+      animatorStateName: die
+      animationType: 0
+      singleClipData:
+        animationClip: {fileID: 1827226128182048838, guid: e4937041052140a41994f549de7cbe4d, type: 3}
+      dualClipBlendData:
+        blendParameterName: 
+        clip1:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        clip2:
+          parameterValue: 0
+          animationClip: {fileID: 0}
+        nbrOfInBetweenSamples: 0
+      loop: 0
+      additionalAnimatorParameterValues: []
+      additionalAnimatorStatesPerLayer: []
+    generateAnimationIdsEnum: 0
+    animationIdsEnumName: 
+    usePredefinedAnimationEventIds: 0
+    predefinedAnimationEventIds: []
+    generateAnimationEventIdsEnum: 0
+    animationEventIdsEnumName: 
+    attachmentAnchors: []
+    generateAttachmentAnchorIdsEnum: 0
+    attachmentAnchorIdsEnumName: 
+    boneUsage:
+      numberOfBonesPerVertex: 6
+      boneUsagesPerLoD: []
+    transformUsageFlagsParent: 2
+    transformUsageFlagsChildren: 1
+  gpuEcsAnimator: {fileID: 749882750578914874, guid: e59451da01de8f349b2901798f334815, type: 3}

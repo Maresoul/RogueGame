@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_Project\\Rogue\\Rogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|E:\\Unity_Project\\Rogue\\Rogue\\assets\\script\\ecs\\enemyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|e:\\unity_project\\rogue\\rogue\\assets\\script\\ecs\\enemyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|E:\\Unity_Project\\Rogue\\Rogue\\assets\\script\\cccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|E:\\Unity_Project\\Rogue\\Rogue\\assets\\script\\ecs\\bulletsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\bulletsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySpawnerAuthoring.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "ToolTip": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:46:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawnerSystem.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "ToolTip": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA8wE0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:44:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCController.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\CCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CCController.cs",
+              "ToolTip": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\CCController.cs",
+              "RelativeToolTip": "Assets\\Script\\CCController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvx4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:48:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletSystem.cs",
+              "DocumentMoniker": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\BulletSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\BulletSystem.cs",
+              "ToolTip": "E:\\Unity_Project\\Rogue\\Rogue\\Assets\\Script\\ECS\\BulletSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\BulletSystem.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAD4vzkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:49:04.742Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
