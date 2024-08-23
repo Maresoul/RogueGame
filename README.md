@@ -23,9 +23,3 @@
 测试环境：i5-12600kF + RTX 4060ti，如下图所示：
 
 ![压力测试](https://github.com/Maresoul/RogueGame/blob/main/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95-1.gif)
-
-
-
-<center>
-  <img src="https://github.com/Maresoul/RogueGame/blob/main/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95-1.gif" alt="压力测试" />
-</center>
