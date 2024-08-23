@@ -4,9 +4,9 @@
 
 基于Unity6的DOTS框架开发的一款肉鸽弹幕游戏,支持海量怪物同屏，实现Rogue游戏中的移动射击，敌人随机生成，弹幕躲避，多样化的武器和能力，道具升级等常见要素
 
-[完整项目演示](https://www.bilibili.com/video/BV1gUWjeUETc/?spm_id_from=333.999.0.0&vd_source=15ce64d8f8fad36086523ce711dec730)
+[**完整项目演示**](https://www.bilibili.com/video/BV1gUWjeUETc/?spm_id_from=333.999.0.0&vd_source=15ce64d8f8fad36086523ce711dec730)
 
-[游戏下载地址](https://pan.baidu.com/s/1Q-cIa8th9wWRaVGtJA1YDg?pwd=67qf)
+[**游戏下载地址**](https://pan.baidu.com/s/1Q-cIa8th9wWRaVGtJA1YDg?pwd=67qf)
 
 ## 技术点
 
