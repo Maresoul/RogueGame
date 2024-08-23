@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mares\\Desktop\\RogueGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|c:\\users\\mares\\desktop\\roguegame\\assets\\script\\ecs\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git_Project\\DOTS_Demo\\Client\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\GraphicRaycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\enemyjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemyjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\cccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\enemyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemyspawnersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\unitstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\unitstatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10746184-F31C-E9D0-86CA-5B8B963C49B0}|Nebukam.ORCA.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\orca\\com.nebukam.orca\\runtime\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10746184-F31C-E9D0-86CA-5B8B963C49B0}|Nebukam.ORCA.csproj|solutionrelative:assets\\script\\orca\\com.nebukam.orca\\runtime\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\bulletsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\bulletsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\dropsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\dropsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\worldunitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\worldunitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\effectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\effectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\enemyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\enemyspawnerauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\hiteffectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\hiteffectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ecs\\bulletauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ecs\\bulletauthoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\effect_core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effect_core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ucameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ucameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\hotfix\\excelconfig\\playerstatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hotfix\\excelconfig\\playerstatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\gamedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\physicsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\physicsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\helper\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\helper\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\animationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\animationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\statescriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\statescriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ex\\intex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ex\\intex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\ex\\utransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ex\\utransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\player\\fsmservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsmservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\hotfix\\excelconfig\\unitdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hotfix\\excelconfig\\unitdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\toon_zombies_extended\\models\\a11\\bakedassets_m_zombie_01 variant\\m_zombie_01 variant_animationids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EFA203-A611-C8EC-1FC4-BA97FC308C43}|Assembly-CSharp.csproj|solutionrelative:assets\\toon_zombies_extended\\models\\a11\\bakedassets_m_zombie_01 variant\\m_zombie_01 variant_animationids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B61765-2834-B15B-E714-18D5455F15B6}|Nebukam.Common.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\script\\orca\\com.nebukam.common\\runtime\\common\\axispair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B61765-2834-B15B-E714-18D5455F15B6}|Nebukam.Common.csproj|solutionrelative:assets\\script\\orca\\com.nebukam.common\\runtime\\common\\axispair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\gpuecsanimationbaker\\engine\\animatorsystem\\gpuecsanimatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|solutionrelative:assets\\gpuecsanimationbaker\\engine\\animatorsystem\\gpuecsanimatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\gpuecsanimationbaker\\engine\\animatorsystem\\gpuecsanimatorcontrolcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|solutionrelative:assets\\gpuecsanimationbaker\\engine\\animatorsystem\\gpuecsanimatorcontrolcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|C:\\Users\\Mares\\Desktop\\RogueGame\\assets\\gpuecsanimationbaker\\engine\\baker\\gpuecsanimationbakerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0183D43-F6B0-236D-97C4-5BB4289C56B2}|GPUECSAnimationBakerEngine.csproj|solutionrelative:assets\\gpuecsanimationbaker\\engine\\baker\\gpuecsanimationbakerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemySystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemySystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyJob.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemyJob.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemyJob.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemyJob.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemyJob.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA+wA8AAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphicRaycaster.cs",
+              "DocumentMoniker": "D:\\Git_Project\\DOTS_Demo\\Client\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\GraphicRaycaster.cs",
+              "ToolTip": "D:\\Git_Project\\DOTS_Demo\\Client\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\GraphicRaycaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:36:14.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCController.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\CCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CCController.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\CCController.cs",
+              "RelativeToolTip": "Assets\\Script\\CCController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawnerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemySpawnerSystem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\UnitStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\UnitStateManager.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\UnitStateManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\UnitStateManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ORCA\\com.nebukam.orca\\Runtime\\Agent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ORCA\\com.nebukam.orca\\Runtime\\Agent.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ORCA\\com.nebukam.orca\\Runtime\\Agent.cs",
+              "RelativeToolTip": "Assets\\Script\\ORCA\\com.nebukam.orca\\Runtime\\Agent.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAA+wJIAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BulletSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\BulletSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\BulletSystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\BulletSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\BulletSystem.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DropSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\DropSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\DropSystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\DropSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\DropSystem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorldUnitManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\WorldUnitManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WorldUnitManager.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\WorldUnitManager.cs",
+              "RelativeToolTip": "Assets\\Script\\WorldUnitManager.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAA4wOQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\FSM.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAOBhwOMAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EffectService.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\EffectService.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\EffectService.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\EffectService.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\EffectService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAA0wEgAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemySpawnerAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\EnemySpawnerAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HitEffectSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\HitEffectSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\HitEffectSystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\HitEffectSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\HitEffectSystem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:30:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BulletAuthoring.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\BulletAuthoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ECS\\BulletAuthoring.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ECS\\BulletAuthoring.cs",
+              "RelativeToolTip": "Assets\\Script\\ECS\\BulletAuthoring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Effect_Core.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Effect_Core.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effect_Core.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Effect_Core.cs",
+              "RelativeToolTip": "Assets\\Script\\Effect_Core.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\UCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UCameraController.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\UCameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\UCameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerStateData.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Hotfix\\ExcelConfig\\PlayerStateData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Hotfix\\ExcelConfig\\PlayerStateData.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Hotfix\\ExcelConfig\\PlayerStateData.cs",
+              "RelativeToolTip": "Assets\\Script\\Hotfix\\ExcelConfig\\PlayerStateData.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAIA6wJYAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameDefine.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\GameDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameDefine.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\GameDefine.cs",
+              "RelativeToolTip": "Assets\\Script\\GameDefine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PhysicsService.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\PhysicsService.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PhysicsService.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\PhysicsService.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PhysicsService.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA3wF0AAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BezierCurve.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Helper\\BezierCurve.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Helper\\BezierCurve.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Helper\\BezierCurve.cs",
+              "RelativeToolTip": "Assets\\Script\\Helper\\BezierCurve.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAHAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnimationService.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\AnimationService.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\AnimationService.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\AnimationService.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\AnimationService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwHoAAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StateScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\StateScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\StateScriptableObject.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\StateScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\StateScriptableObject.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAA3wLcAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IntEx.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\EX\\IntEx.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EX\\IntEx.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\EX\\IntEx.cs",
+              "RelativeToolTip": "Assets\\Script\\EX\\IntEx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIA6wBIAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UTransform.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\EX\\UTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EX\\UTransform.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\EX\\UTransform.cs",
+              "RelativeToolTip": "Assets\\Script\\EX\\UTransform.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wC0AAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FSMServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\FSMServiceBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSMServiceBase.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Player\\FSMServiceBase.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSMServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitData.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Hotfix\\ExcelConfig\\UnitData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Hotfix\\ExcelConfig\\UnitData.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\Hotfix\\ExcelConfig\\UnitData.cs",
+              "RelativeToolTip": "Assets\\Script\\Hotfix\\ExcelConfig\\UnitData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwUAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "M_Zombie_01 Variant_AnimationIDs.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Toon_Zombies_extended\\models\\a11\\BakedAssets_M_Zombie_01 Variant\\M_Zombie_01 Variant_AnimationIDs.cs",
+              "RelativeDocumentMoniker": "Assets\\Toon_Zombies_extended\\models\\a11\\BakedAssets_M_Zombie_01 Variant\\M_Zombie_01 Variant_AnimationIDs.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Toon_Zombies_extended\\models\\a11\\BakedAssets_M_Zombie_01 Variant\\M_Zombie_01 Variant_AnimationIDs.cs",
+              "RelativeToolTip": "Assets\\Toon_Zombies_extended\\models\\a11\\BakedAssets_M_Zombie_01 Variant\\M_Zombie_01 Variant_AnimationIDs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AxisPair.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ORCA\\com.nebukam.common\\Runtime\\Common\\AxisPair.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ORCA\\com.nebukam.common\\Runtime\\Common\\AxisPair.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\Script\\ORCA\\com.nebukam.common\\Runtime\\Common\\AxisPair.cs",
+              "RelativeToolTip": "Assets\\Script\\ORCA\\com.nebukam.common\\Runtime\\Common\\AxisPair.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB0AAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GpuEcsAnimatorSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorSystem.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorSystem.cs",
+              "RelativeToolTip": "Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorSystem.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAywFEAAAAWAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GpuEcsAnimatorControlComponents.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorControlComponents.cs",
+              "RelativeDocumentMoniker": "Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorControlComponents.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorControlComponents.cs",
+              "RelativeToolTip": "Assets\\GPUECSAnimationBaker\\Engine\\AnimatorSystem\\GpuEcsAnimatorControlComponents.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GpuEcsAnimationBakerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\Baker\\GpuEcsAnimationBakerBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\GPUECSAnimationBaker\\Engine\\Baker\\GpuEcsAnimationBakerBehaviour.cs",
+              "ToolTip": "C:\\Users\\Mares\\Desktop\\RogueGame\\Assets\\GPUECSAnimationBaker\\Engine\\Baker\\GpuEcsAnimationBakerBehaviour.cs",
+              "RelativeToolTip": "Assets\\GPUECSAnimationBaker\\Engine\\Baker\\GpuEcsAnimationBakerBehaviour.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-23T02:30:07.802Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
